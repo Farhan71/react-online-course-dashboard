@@ -1,0 +1,26 @@
+.header img {
+    height: 150px;
+    width: 150px;
+    padding: 10px;
+
+}
+.header {
+    text-align: center;
+    background-color: #282c34;
+    height: 230px;
+}
+.header nav {
+    background-color: cyan;
+    height: 30px;
+    border-radius: 5px;
+    box-shadow: 2px 2px 15px white;
+    padding-bottom: 3px;
+}
+.header nav a {
+    color: deeppink;
+    margin-right: 60px;
+    font-weight: 1000;
+    font-size: larger;
+    text-decoration: none;
+    
+}
